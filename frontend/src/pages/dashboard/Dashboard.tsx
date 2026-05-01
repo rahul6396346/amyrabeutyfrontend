@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { TrendingUp, Users, Calendar, Scissors, DollarSign, Loader2, Sparkles, Clock, ChevronRight } from 'lucide-react';
+import { TrendingUp, Users, Calendar, Scissors, DollarSign,  Sparkles, Clock, ChevronRight } from 'lucide-react';
 import api from '../../services/api';
 import { useNavigate } from 'react-router-dom';
 

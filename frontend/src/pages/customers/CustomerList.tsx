@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import customerService from '../../services/customerService';
 import type { Customer } from '../../services/customerService';
-import { Plus, Search, MoreVertical, Edit, Trash, Users, UserCheck, Star, UsersRound, Download } from 'lucide-react';
+import { Plus, Search,  Edit, Trash, Users, UserCheck, Star, UsersRound, Download } from 'lucide-react';
 import CustomerStatsCard from '../../components/customers/CustomerStatsCard';
 import { useAuth } from '../../contexts/AuthContext';
 

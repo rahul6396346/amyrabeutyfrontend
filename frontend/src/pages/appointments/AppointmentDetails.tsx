@@ -3,7 +3,7 @@ import { useParams, useNavigate } from 'react-router-dom';
 import appointmentService from '../../services/appointmentService';
 import type { Appointment } from '../../services/appointmentService';
 import { 
-    ArrowLeft, Calendar, User, Users, Clock, 
+    ArrowLeft, Calendar, User, Users, 
     CreditCard, CheckCircle2, XCircle, AlertCircle, 
     Edit, Printer, MapPin, Receipt, Scissors
 } from 'lucide-react';

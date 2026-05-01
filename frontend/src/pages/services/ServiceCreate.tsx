@@ -4,7 +4,7 @@ import serviceCatalog, { type ServiceCategory } from '../../services/serviceCata
 import { 
     ArrowLeft, Scissors, Clock, DollarSign, 
     Tag, Info, Save, Sparkles, AlertCircle, 
-    CheckCircle2, PlusCircle, Loader2
+     PlusCircle, Loader2
 } from 'lucide-react';
 
 const ServiceCreate = () => {

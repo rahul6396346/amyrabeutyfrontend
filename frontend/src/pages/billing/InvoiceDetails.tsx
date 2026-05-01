@@ -2,9 +2,9 @@ import { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import billingService, { type Invoice } from '../../services/billingService';
 import { 
-    ArrowLeft, Printer, Download, Mail, 
-    CheckCircle2, CreditCard, User, Calendar, 
-    Hash, Scissors, Package, Loader2, AlertTriangle
+    ArrowLeft, Printer,  Mail, 
+    CheckCircle2, CreditCard, User, 
+     Scissors, Package, Loader2, AlertTriangle
 } from 'lucide-react';
 
 const InvoiceDetails = () => {

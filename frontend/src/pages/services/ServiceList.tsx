@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import serviceCatalog, { type Service, type ServiceCategory } from '../../services/serviceCatalog';
 import { 
     Plus, Search, Edit3, Trash2, Scissors, 
-    Clock, Tag, Filter, MoreHorizontal, 
+    Clock, MoreHorizontal, 
     CheckCircle2, XCircle, Grid, List as ListIcon, Loader2
 } from 'lucide-react';
 
